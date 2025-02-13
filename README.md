@@ -4,6 +4,12 @@ Priki is a project for ES dev technician formation, in the context of the module
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/yannickcpnv/Priki?label=Version)
 
+## Demo
+
+https://github.com/user-attachments/assets/9526c2d8-dcdb-4c16-bea4-5794845818c8
+
+https://github.com/user-attachments/assets/0c7dee8f-a269-46cb-9f7d-bf1e39d75e75
+
 ## Requirements
 
 | Tools                                         | Version           |
