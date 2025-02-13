@@ -1,6 +1,6 @@
 @props(['opinion', 'practice'])
 
-<div class="card anim-for-click">
+<div class="card">
     <div class="card-content">
         {{--Opinion header--}}
         <div class="media is-align-items-center">
@@ -57,7 +57,7 @@
 
         <div class="is-flex is-justify-content-space-between">
             {{--Comments info--}}
-            <p class="is-clickable"
+            <p class="is-clickable hover:opacity-50"
                @click="selected = selected !== key ? key : null"
             >
                 @if ($opinion->comments->isNotEmpty())
